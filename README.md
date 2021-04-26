@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lyndametref
 - 👀 I’m interested in way too many things for my own good: system engineering, data science, python programming, web technologies, woodworking, soap making, crochet, stitching, calligraphy, photography, travels and more
-- 🌱 I’m currently improving automation skills
+- 🌱 I’m currently improving my automation skills
 - 💞️ I’m looking to collaborate on anything that interest me
 - 📫 How to reach me: http://lynda.metref.net
 
